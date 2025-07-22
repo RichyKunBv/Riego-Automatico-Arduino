@@ -27,6 +27,8 @@ El cable positivo (rojo) de la bomba → Uno de los tornillos del borne (termina
 El cable positivo (rojo) de la fuente de poder externa → El otro tornillo del borne del relé.
 
 
+<img width="1600" height="916" alt="diagrama" src="https://github.com/user-attachments/assets/5e7adbb5-3406-47eb-b237-4aaa0c45da58" />
+
 
 
 ![WhatsApp Image 2025-07-21 at 20 07 16](https://github.com/user-attachments/assets/5150f336-6464-4271-bd82-49069eb87329)
